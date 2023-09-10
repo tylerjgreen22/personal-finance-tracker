@@ -21,7 +21,7 @@ Read ledger can be run by providing a flag, either Category (--category or -ca) 
 Examples: 
 
 dotnet script ReadLedger.csx --category "Groceries" 
-dotnet script --interval 30d
+dotnet script ReadLedger.csx --interval 30d
 
 This script will return a summary of the transactions from the ledger, provided it exists and is not empty, matching the supplied flag as well as the total amount spent on these transactions. Three types of values can be supplied for interval, either days, months or years
 
