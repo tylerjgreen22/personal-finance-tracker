@@ -45,5 +45,7 @@ Total spent on Groceries: 9.67 <br>
 ## Take away
 
 Overall this challenge was quite fun, it was my first time writing scripts in C# and I learned a lot about how to write scripts and how to handle command line arguments with scripts.
-I also learned how to work with dates better, as I had not previously worked much dates beyond just as created at timestamps
+
+I also learned how to work with dates better, as I had not previously worked much with dates beyond created at timestamps
+
 This challenge took me around 3 hours to complete, however a lot of that time was just figuring out how to run scripts with dotnet and C# using dotnet script and the csx file extension
