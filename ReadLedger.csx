@@ -108,7 +108,7 @@ if (!string.IsNullOrEmpty(interval))
     }
 
     // Check the last char of the supplied interval. If it is d, subtract days, m, subtract months or y, subtract years from the current date
-    switch (interval[^1])
+    switch (char.ToLower(interval[^1]))
     {
         case 'd':
             startDate = DateTime.Now.AddDays(-amountToSubtract);
