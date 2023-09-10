@@ -19,6 +19,7 @@ This script will create a GeneralLedger.json file and write the transaction to t
 Read ledger can be run by providing a flag, either Category (--category or -ca) or Interval (--interval or -in). Both values are strings. The challenge instructions said to use -c or -i but those seem to be reserved flags in dotnet scripts
 
 Examples: 
+
 dotnet script ReadLedger.csx --category "Groceries" <br>
 dotnet script ReadLedger.csx --interval 30d <br>
 
