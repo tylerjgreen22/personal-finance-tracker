@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Movies",
+    "Category": "Entertainment",
+    "Price": 26.79,
+    "TimeStamp": "2023-09-10T15:20:37.2202978-07:00"
+  },
+  {
+    "Name": "Chicken Breast",
+    "Category": "Groceries",
+    "Price": 5.68,
+    "TimeStamp": "2023-09-10T15:20:49.6422041-07:00"
+  },
+  {
+    "Name": "Milk",
+    "Category": "Groceries",
+    "Price": 3.99,
+    "TimeStamp": "2023-09-10T15:20:59.29539-07:00"
+  },
+  {
+    "Name": "Oil",
+    "Category": "Automotive",
+    "Price": 33.99,
+    "TimeStamp": "2023-08-10T15:20:59.29539-07:00"
+  },
+  {
+    "Name": "Tires",
+    "Category": "Automotive",
+    "Price": 200.0,
+    "TimeStamp": "2021-09-10T15:20:59.29539-07:00"
+  }
+]
